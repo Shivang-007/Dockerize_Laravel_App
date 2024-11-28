@@ -1,0 +1,49 @@
+# Laravel & Composer
+/vendor
+/node_modules
+/.composer
+/.env
+/.env.*
+/storage/*
+/public/storage
+/public/hot
+/public/uploads
+/.idea
+/.vscode
+/.phpunit.result.cache
+/.cache
+/.eslintcache
+/.swagger-codegen
+/.php_cs.cache
+/.php_cs.dist
+/.php_cs
+composer.lock
+
+# Laravel IDE helpers
+/_ide_helper.php
+/_ide_helper_models.php
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# NPM/Yarn
+yarn-error.log
+npm-debug.log
+package-lock.json
+
+# PHPUnit & PHPunit Result Cache
+phpunit.xml
+phpunit.xml.dist
+
+# Vagrant
+.vagrant/
+
+# Docker
+docker-compose.override.yml
+
+# Laravel Mix
+/public/mix-manifest.json
+/public/js/app.js
+/public/css/app.css
+
